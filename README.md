@@ -8,4 +8,7 @@ https://www.youtube.com/c/Coreyms
 Part 1: 
 Django Basics
 1. Video 1: Web App Basics
-2. Applications and Routingg
+2. Applications and Routing
+3. Templates
+4. Admin Page
+5. DB And Migrationsg
